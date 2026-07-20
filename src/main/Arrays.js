@@ -49,6 +49,7 @@ function updatePop(){
  */
 function arrPush(item){
     // code here
+    arr.push(item);
 }
 
 
@@ -57,6 +58,7 @@ function arrPush(item){
  */
 function arrPop(){
     // code here
+    arr.pop();
 }
 
 
@@ -65,6 +67,7 @@ function arrPop(){
  */
 function arrLength(){
     // code here
+   return arr.length;
 }
 
 
